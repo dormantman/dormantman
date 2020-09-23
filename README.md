@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dormantman/dormantman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ruslan Stepanov, a passionate self-taught full-stack developer from Russia.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my project [Booklet](https://vk.com/bklet)
+- 🌱 I’m currently learning Python & Typescript
+- 💬 Ask me about anything [here](https://t.me/dormantman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dormantman&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dormantman&layout=compact&theme=radical" />
+</a>
